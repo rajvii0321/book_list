@@ -1,0 +1,7 @@
+//app.py is a file name
+set FLASK_APP=app.py
+
+//to run the code
+flask run
+
+python app.py
